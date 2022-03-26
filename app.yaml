@@ -1,0 +1,6 @@
+runtime: nodejs10
+service: default
+env_variables: 
+  API_AUTH_KEY: "SID 9bdb2ed7-7bd7-4d2d-9c2f-8250ff8a9ed9:ZGIyODYyNjVkZWVhYTJlZDc5MzQzNzgzNWRhN2ZlMjg2YTYwMjFmYmE5YTViNTM5NmFjY2JkODcwZTMxN2FlNg=="
+  API_TOKEN: "4af9aa6b-a38e-43a3-b1bd-2c873c855e74"
+  API_URL: "https://api.gettopvote.com"
